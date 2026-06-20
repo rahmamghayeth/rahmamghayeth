@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Rahma Mghayeth</h1>
-<h3 align="center">Computer Science Student | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Computer Science Student | UI/UX Enthusiast | Problem Solver & Tech Explorer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rahmamghayeth&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
